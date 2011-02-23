@@ -1,0 +1,14 @@
+; $Id: filter_test.info,v 1.2 2010/12/20 19:59:43 webchick Exp $
+name = Filter test module
+description = Tests filter hooks and functions.
+package = Testing
+version = VERSION
+core = 7.x
+hidden = TRUE
+
+; Information added by drupal.org packaging script on 2011-02-22
+version = "7.x-dev"
+core = "7.x"
+project = "drupal"
+datestamp = "1298333806"
+

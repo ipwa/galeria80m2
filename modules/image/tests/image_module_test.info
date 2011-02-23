@@ -1,0 +1,15 @@
+; $Id: image_module_test.info,v 1.1 2010/08/23 09:04:57 dries Exp $
+name = Image test
+description = Provides hook implementations for testing Image module functionality.
+package = Core
+version = VERSION
+core = 7.x
+files[] = image_module_test.module
+hidden = TRUE
+
+; Information added by drupal.org packaging script on 2011-02-22
+version = "7.x-dev"
+core = "7.x"
+project = "drupal"
+datestamp = "1298333806"
+

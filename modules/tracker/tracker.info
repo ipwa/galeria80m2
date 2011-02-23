@@ -1,0 +1,15 @@
+; $Id: tracker.info,v 1.11 2010/12/20 19:59:43 webchick Exp $
+name = Tracker
+description = Enables tracking of recent content for users.
+dependencies[] = comment
+package = Core
+version = VERSION
+core = 7.x
+files[] = tracker.test
+
+; Information added by drupal.org packaging script on 2011-02-22
+version = "7.x-dev"
+core = "7.x"
+project = "drupal"
+datestamp = "1298333806"
+

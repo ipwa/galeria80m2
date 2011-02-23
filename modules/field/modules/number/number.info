@@ -1,0 +1,15 @@
+; $Id: number.info,v 1.9 2010/12/20 19:59:41 webchick Exp $
+name = Number
+description = Defines numeric field types.
+package = Core
+version = VERSION
+core = 7.x
+dependencies[] = field
+files[] = number.test
+
+; Information added by drupal.org packaging script on 2011-02-22
+version = "7.x-dev"
+core = "7.x"
+project = "drupal"
+datestamp = "1298333806"
+
